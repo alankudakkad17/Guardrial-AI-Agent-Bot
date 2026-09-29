@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "gradio-app",
+      "runtimeExecutable": "D:\\nvidia\\guardrails-project\\.venv\\Scripts\\python.exe",
+      "runtimeArgs": ["app.py"],
+      "port": 7860
+    }
+  ]
+}
